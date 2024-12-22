@@ -13,6 +13,7 @@ body {
 .app-container {
     display: flex;
     flex-direction: column;
+    width: 100%;
 }
 
 .content-container {
@@ -289,6 +290,9 @@ body {
         0 0 10px rgba(0, 255, 0, 0.5);
     animation: float 5s ease-in-out infinite;
     white-space: nowrap;
+    overflow: hidden;
+    left: 0;
+    right: 0;
 }
 
 .number:nth-of-type(n) {
