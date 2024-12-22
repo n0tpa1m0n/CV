@@ -1,8 +1,3 @@
-# React + Vite
+# Мое Резюме (CV)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Добро пожаловать в мой репозиторий с резюме! Здесь вы найдете моё профессиональное резюме, в котором представлены мои навыки, опыт работы и достижения.
