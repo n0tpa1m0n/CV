@@ -1,5 +1,6 @@
 import React from "react";
 import profile from "../assets/images/profile.jpg";
+
 const AboutMe = () => {
   return (
     <section>
@@ -24,7 +25,7 @@ const AboutMe = () => {
             project.
           </p>
           <button className="download_button">
-            <a href="" download>
+            <a href="../../public/elizavetagorda.pdf" download>
               Download PDF
             </a>
           </button>
