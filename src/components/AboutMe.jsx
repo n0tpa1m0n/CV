@@ -25,7 +25,7 @@ const AboutMe = () => {
             project.
           </p>
           <button className="download_button">
-            <a href="../../public/elizavetagorda.pdf" download>
+            <a href="/elizavetagorda.pdf" download>
               Download PDF
             </a>
           </button>
